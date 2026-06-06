@@ -1,0 +1,9 @@
+# Core app
+streamlit>=1.32
+pybamm>=24.11
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+
+# Optional (but recommended) extras for nicer plots / stability
+scipy>=1.10
