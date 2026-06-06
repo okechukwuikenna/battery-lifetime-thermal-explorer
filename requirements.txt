@@ -7,3 +7,4 @@ matplotlib>=3.7
 
 # Optional (but recommended) extras for nicer plots / stability
 scipy>=1.10
+scikit-learn>=1.3.0
